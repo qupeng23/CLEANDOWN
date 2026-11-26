@@ -2,6 +2,10 @@
 
 一键清理缓存垃圾、可按需自动关机的小工具。只清理缓存类数据，不碰个人文件和登录状态。
 
+![CLEANDOWN 界面](screenshot.png)
+
+[![下载最新版 v1.2.0](https://img.shields.io/badge/下载-CLEANDOWN%20v1.2.0-2ea44f?style=for-the-badge)](https://github.com/qupeng23/CLEANDOWN/releases/latest)
+
 > 说明：本仓库源码是根据 `CLEANDOWN 1.2.0 使用说明` 重建的等价实现，使用 Python 标准库编写，可由 PyInstaller 打包为单文件 EXE。
 
 ## 功能
